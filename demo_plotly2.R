@@ -1,6 +1,6 @@
 library("plotly")
 
-p <- plotly(username="jpcolino", key="6gm4rlpmgv")
+p <- plotly(username="****", key="****")
 
 x0 = rnorm(500)
 x1 = rnorm(500)+1

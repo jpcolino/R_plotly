@@ -1,6 +1,6 @@
 library(plotly)
 
-p <- plotly(username="jpcolino", key="6gm4rlpmgv")
+p <- plotly(username="****", key="****")
 
 trace1 <- list(
   x = c(1, 2, 3, 4), 
